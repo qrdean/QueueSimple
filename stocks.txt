@@ -1,0 +1,9 @@
+code(b-buy;s-sell)  number of shares   price
+b                   100                 15.00
+b                   200                 17.50
+b                   50                  33.00
+b                   500                 12.50
+s                   150                 22.00
+s                   100                 10.00
+b                   1200                7.00
+s                   1300                18.00

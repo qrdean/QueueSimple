@@ -1,0 +1,11 @@
+Course      Title
+ITSC1305    PC Operating Systems
+ITNW1337    Intro to Internet
+ITNW1354    Server Administration
+ITNW1345    Active Directory Services
+COSC1336    Programming fundamentals I
+COSC1337    Programming Fundamentals II
+ITSE1311    Intro to Web Programming
+ITSE1331    Intro to VB
+ITCC1311     Cisco I
+ITCC1312    Cisco II
